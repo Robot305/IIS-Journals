@@ -23,6 +23,9 @@ Journals of Information and Intelligence Science (IIS)
 + [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
 + [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
 + [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
++ [COLLEGE & RESEARCH LIBRARIES](https://crl.acrl.org/index.php/crl)
++ [JOURNAL OF THE MEDICAL LIBRARY ASSOCIATION](http://jmla.mlanet.org/ojs/jmla)
++ [LIBRARY COLLECTIONS ACQUISITIONS & TECHNICAL SERVICES](https://www.sciencedirect.com/journal/library-collections-acquisitions-and-technical-services)
 
 
 ## 编辑出版
@@ -38,7 +41,6 @@ Journals of Information and Intelligence Science (IIS)
 + [档案学研究](http://journal12.magtechjournal.com/Jwk_dax/CN/1002-1620/home.shtml)
 + [Archival Science](https://www.springer.com/journal/10502)
 + [Archivaria](https://www.archivists.ca/Archivaria)
-+ [African Journal of Library Archives and Information Science](https://www.ajol.info/index.php/ajlais)
 
 ---
 
@@ -56,7 +58,10 @@ Journals of Information and Intelligence Science (IIS)
 + [图书情报知识](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSQC)
 + [图书情报工作](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSQB)
 + [数据分析与知识发现](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XDTQ)
-
++ [中国图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS)
++ [大学图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=DXTS)
++ [图书馆论坛](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSGL)
++ [图书馆建设](https://navi.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=TSGJ)
 
 # SSCI
 + [International Journal of Information Management](https://www.journals.elsevier.com/international-journal-of-information-management) ([IJIM](https://dblp.uni-trier.de/db/journals/ijinfoman/index.html))

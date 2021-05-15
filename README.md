@@ -3,6 +3,7 @@ Journals of Information and Intelligence Science (IIS)
 
 
 ## 信息管理与系统
++ [信息系统学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CCJD&pykm=XTIB&Year=&Issue=)
 + [Information Systems Research](https://www.informs.org/Publications/INFORMS-Journals/Information-Systems-Research)([ISR](https://dblp.uni-trier.de/db/journals/isr/index.html))
 + [Journal of Management Information Systems](https://www.tandfonline.com/loi/mmis20)([JMIS](https://dblp.uni-trier.de/db/journals/jmis/index.html))
 + [Journal of Association for Information Systems](https://aisnet.org/default.aspx)([JAIS](https://dblp.uni-trier.de/db/journals/jais/index.html))
@@ -20,9 +21,10 @@ Journals of Information and Intelligence Science (IIS)
 
 ## 图书馆
 + [中国图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=ZGTS&Year=&Issue=)
++ [大学图书馆学报](https://navi.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=DXTS&Year=&Issue=)
 + [Library Quarterly](https://www.journals.uchicago.edu/journals/lq/about)
 + [Journal of Academic Librarianship](https://www.journals.elsevier.com/the-journal-of-academic-librarianship)
-+ [Library Hi Tech](https://www.emeraldgrouppublishing.com/journal/lht?id=LHT)
++ [College & Research Libraries](https://crl.acrl.org/index.php/crl)
 
 
 ## 编辑出版
